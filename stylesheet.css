@@ -1,5 +1,5 @@
 .gay{
-    color:purple;
+    color:rgb(255, 0, 255);
     font-size: 20px;
 }
 .but{
@@ -20,4 +20,5 @@
 }
 body{
     text-align: center;
+    background-image: linear-gradient(purple,cyan,blue,green,yellow,orange,red);
 }
