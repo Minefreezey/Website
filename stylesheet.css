@@ -1,0 +1,20 @@
+.gay{
+    color:purple;
+    font-size: 20px;
+}
+.but{
+    font-size:20px;
+
+}
+.header{
+    width:fit-content;
+    color:blue;
+    font-size: 100px;
+    border: 10px dotted black;
+}
+.loghead{
+    color: rgb(247, 0, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    font-weight: 900;
+}
